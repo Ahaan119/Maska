@@ -87,7 +87,7 @@
 
 
 .nav .active::before {
-    content: url(/images/desktop-lines\ 1.webp);
+    content: url(../images/desktop-lines\ 1.webp);
     position: absolute;
     top: 2.9vw;
     margin-left: 0.7vw;
@@ -221,7 +221,7 @@
     position: relative;
     width: 100%;
     height: fit-content;
-    background-image: url(/images/contact/bg.webp);
+    background-image: url(../images/contact/bg.webp);
     background-size: cover;
     background-repeat: no-repeat;
     display: flex;
@@ -231,7 +231,7 @@
 
 .section2 .left{
 width: 55vw;
-background-image: url(/images/contact/envelope.webp);
+background-image: url(../images/contact/envelope.webp);
 background-repeat: no-repeat;
 background-size: cover;
 height: 90vh;
@@ -298,7 +298,7 @@ padding: 5vw;
 }
 
 footer {
-    background-image: url(/images/footer_bg.webp);
+    background-image: url(../images/footer_bg.webp);
     width: 100%;
     background-size: cover;
     height: 50vh;

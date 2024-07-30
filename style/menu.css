@@ -93,7 +93,7 @@
 }
 
 .nav .active::before {
-    content: url(/images/desktop-lines\ 1.webp);
+    content: url(../images/desktop-lines\ 1.webp);
     position: absolute;
     top: 2.9vw;
     margin-left: 0.7vw;
@@ -222,7 +222,7 @@
 .section2 {
     width: 100%;
     height: fit-content;
-    background-image: url(/images/bg_pattern.webp);
+    background-image: url(../images/bg_pattern.webp);
     /* background-size: cover; */
     display: flex;
     justify-content: center;
@@ -305,7 +305,7 @@
 .section3 {
     width: 100%;
     height: fit-content;
-    background-image: url(/images/bg_pattern.webp);
+    background-image: url(../images/bg_pattern.webp);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -401,7 +401,7 @@
 .section4 {
     width: 100%;
     height: fit-content;
-    background-image: url(/images/bg_pattern.webp);
+    background-image: url(../images/bg_pattern.webp);
     display: flex;
     align-items: flex-start;
     /* justify-content: center; */
@@ -513,7 +513,7 @@
 }
 
 footer {
-    background-image: url(/images/footer_bg.webp);
+    background-image: url(../images/footer_bg.webp);
     width: 100%;
     background-size: cover;
     height: 50vh;
@@ -577,7 +577,7 @@ footer .social a {
 
 @media screen and (max-width: 1200px) {
     .nav .active::before {
-        content: url(/images/desktop-lines\ 1.webp);
+        content: url(../images/desktop-lines\ 1.webp);
         position: absolute;
         top: 2.9vw;
         margin-left: 0.2vw;
@@ -586,7 +586,7 @@ footer .social a {
 
 @media screen and (max-width: 1000px) {
     .nav .active::before {
-        content: url(/images/desktop-lines\ 1.webp);
+        content: url(../images/desktop-lines\ 1.webp);
         position: absolute;
         top: 2vw;
         margin-left: 0.2vw;
